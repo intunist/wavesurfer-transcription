@@ -2,6 +2,8 @@
 These are the config files we use for labeling datasets. Dark theme included as-per request.
 LAB transcriptions are saved in the HTK format.
 
+You can place these configs into the `%USERPROFILE%\.wavesurfer\1.8\configurations` folder.
+
 Note: don't set these as default as the pitch plot will cause Wavesurfer to quit at start (due to lack of audio).
 Dark themes don't have the power plot as the power plot doesn't save/load it's color.
 
