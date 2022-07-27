@@ -1,9 +1,8 @@
-# DynamiVox Wavesurfer Configurations
+# DYVAUX Wavesurfer Configurations
 These are the config files we use for labeling datasets. Dark theme included as-per request.
 LAB transcriptions are saved in the HTK format.
 
 ![image](https://user-images.githubusercontent.com/16280813/155665138-3be5b62f-d580-42d9-a117-5c4569216c6f.png)
-
 
 You can place these configs into the `%USERPROFILE%\.wavesurfer\1.8\configurations` folder.
 
