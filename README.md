@@ -1,4 +1,4 @@
-# UPT3 Wavesurfer Configurations
+# Intunist Wavesurfer Configurations
 These are the config files our team uses for labeling datasets.
 LAB transcriptions are saved in the HTK format.
 
